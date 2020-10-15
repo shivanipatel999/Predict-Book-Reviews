@@ -1,6 +1,9 @@
 # Predict-Book-Reviews
 Predicting Book Reviews using Azure Machine Learning Studio 
 
+![image](https://user-images.githubusercontent.com/53508442/96101109-b961c900-0ef2-11eb-8664-0e096bdf6ea6.png)
+
+
 PROCEDURE:
 
 •	Select any dataset from the azure ML studio.
