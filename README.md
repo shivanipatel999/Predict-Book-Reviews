@@ -22,3 +22,9 @@ PROCEDURE:
 
 •	Final step is to use Evaluate Model to evaluate the scores resulted from the Scored Model.
 
+OUTPUT:
+
+![image](https://user-images.githubusercontent.com/53508442/96101376-02b21880-0ef3-11eb-88d7-c6e3d2e3206e.png)
+![image](https://user-images.githubusercontent.com/53508442/96101441-1493bb80-0ef3-11eb-966c-30312606eb32.png)
+![image](https://user-images.githubusercontent.com/53508442/96101466-1b223300-0ef3-11eb-9bc5-7cb0a6a2867e.png)
+
